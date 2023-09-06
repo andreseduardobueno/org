@@ -1,5 +1,5 @@
 //import { useState } from "react"
-import "./Campotexto.css"
+import "./CampoTexto.css"
 const Campotexto = (props) => {
     const placeholderModificado = `${props.placeholder}...`
 
